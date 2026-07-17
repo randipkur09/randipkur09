@@ -78,5 +78,5 @@ I enjoy building web and mobile applications while exploring Machine Learning an
 
 ## 📫 Connect with Me
 
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/yourusername
+- Email: randipkur@email.com
+- LinkedIn: https://linkedin.com/in/randipkur
